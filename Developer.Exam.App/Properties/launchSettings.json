@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Developer.Exam.App": {
+      "commandName": "Project"
+    }
+  }
+}
